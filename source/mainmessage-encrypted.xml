@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sourcecode>
+ <!--sorry for the messy code-->
+  <fakeJavascrip>
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -10,4 +12,5 @@ var _0xb8eac4=_0x5074;function _0x5074(_0x18af23,_0x1be601){var _0x320f45=_0x320
 &lt;body&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-  </sourcecode>
+    </fakeJavascrip>
+    </sourcecode>
